@@ -9,8 +9,8 @@ An easy-to-set-up playground for cross device real-time Google Speech Recognitio
 ![Yo this is a test](example.gif "example gif")
 
 ## Run Local
-1. get a free test key from [Google](https://cloud.google.com/speech/docs/quickstart )
-2. place it into the src folder and update the path in the `.env` file
+1. get a free test key from [Google](https://cloud.google.com/speech/docs/quickstart ) (Done by Akin (Free test key))
+2. place it into the src folder and update the path in the `.env` file (Done by Akin (Updated))
 3. open the terminal and go to the `src` folder
 4. run `npm install`
 5. run `node app.js` or with nodemon: `nodemon app`
